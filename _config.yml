@@ -1,0 +1,28 @@
+name: thisnow
+favicon: null
+layout_spectrum: 0.8369664596393704
+typography_spectrum: 0.875185827491805
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#191d28'
+    - '#58595d'
+    - '#bcbac8'
+    - '#7e969d'
+    - '#fefadc'
+  brandStrength: 0.0625
+  lightness: 0.125
+  saturation: 0.7536298693157732
+  rhythmicContrast: 0.9849599115550518
+purpose: []

@@ -2,22 +2,23 @@
 inFeed: true
 hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: a short experiment in the grid and photography
-datePublished: '2016-01-16T17:11:49.382Z'
-dateModified: '2016-01-16T17:11:13.796Z'
+datePublished: '2016-01-16T17:47:21.422Z'
+dateModified: '2016-01-16T17:25:03.771Z'
 title: Phil and Layla in the woods
 author: []
+sourcePath: _posts/2016-01-16-phil-and-layla-in-the-woods.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-16-phil-and-layla-in-the-woods.md
-published: true
 _type: Blurb
 
 ---

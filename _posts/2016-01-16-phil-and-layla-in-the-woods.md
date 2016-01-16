@@ -7,7 +7,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: a short experiment in the grid and photography
-datePublished: '2016-01-16T17:47:21.422Z'
+datePublished: '2016-01-16T17:47:21.499Z'
 dateModified: '2016-01-16T17:25:03.771Z'
 title: Phil and Layla in the woods
 author: []

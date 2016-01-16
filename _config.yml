@@ -1,6 +1,6 @@
 name: thisnow
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.8369664596393704
 typography_spectrum: 0.875185827491805
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#191d28'
-    - '#58595d'
-    - '#bcbac8'
-    - '#7e969d'
-    - '#fefadc'
-  brandStrength: 0.0625
-  lightness: 0.125
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.4542413828894496
+  lightness: 0.5512999554630369
   saturation: 0.7536298693157732
   rhythmicContrast: 0.9849599115550518
 purpose: []
